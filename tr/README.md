@@ -18,10 +18,10 @@ Flexible Grid System'in responsive olarak kullanılması için `<head>` tagleri 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
 ####Statik
-Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit class'larını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
+Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit classlarını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
 
 ####Dinamik
-Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixin'lerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
+Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixinlerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
 
 #####Klasör Yapısı
 ```
@@ -46,7 +46,7 @@ css/
     ├── flexiblegs.css
     └── flexiblegs.min.css
 ```
-Dosyaları *[görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)*
+Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
 ####Kurulum
 CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
@@ -87,7 +87,7 @@ scss/
             ├── _gutter.scss
             └── _align.scss
 ```
-Dosyaları *[görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)*
+Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 ####Kurulum
 Sass kurulumu için `scss` veya `sass` formatlı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
