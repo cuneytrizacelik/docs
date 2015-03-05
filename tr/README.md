@@ -10,13 +10,13 @@ Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Styl
 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
-####Statik
+###Statik
 Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit classlarını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
 
-####Dinamik
+###Dinamik
 Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixinlerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
 
-#####Klasör Yapısı
+####Klasör Yapısı
 ```
 static/
 ├── css/
