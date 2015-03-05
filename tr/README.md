@@ -18,10 +18,10 @@ Flexible Grid System'in responsive olarak kullanılması için `<head>` tagleri 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
 ####Statik
-Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit class'larını kullanarak **HTML kısmında** kodlama yapabilirsiniz.
+Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit class'larını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
 
 ####Dinamik
-Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixin'lerini kullanarak **CSS kısmında** kodlama yapabilirsiniz.
+Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixin'lerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
 
 #####Klasör Yapısı
 ```
@@ -37,7 +37,7 @@ dynamic/
 
 [Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.2.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
 
-###CSS (Statik)
+###CSS
 
 #####Kaynak Kodu
 ```
