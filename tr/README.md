@@ -46,7 +46,7 @@ css/
     ├── flexiblegs.css
     └── flexiblegs.min.css
 ```
-Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
+Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
 ####Kurulum
 CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
@@ -87,7 +87,7 @@ scss/
             ├── _gutter.scss
             └── _align.scss
 ```
-Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
+Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 ####Kurulum
 Sass kurulumu için `scss` veya `sass` uzantılı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
@@ -118,7 +118,7 @@ less/
             ├── gutter.less
             └── align.less
 ```
-Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
+Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
 
 ####Kurulum
 LESS kurulumu için `less` uzantılı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
@@ -144,7 +144,7 @@ stylus/
             ├── gutter.styl
             └── align.styl
 ```
-Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
+Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
 
 ####Kurulum
 Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
@@ -155,7 +155,7 @@ Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki �
 
 ###[Ruby on Rails](https://github.com/flexiblegs/flexiblegs-rails)
 
-Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
+Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
