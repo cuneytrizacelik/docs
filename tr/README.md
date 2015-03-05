@@ -90,7 +90,7 @@ scss/
 Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 ####Kurulum
-Sass kurulumu için `scss` veya `sass` formatlı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
+Sass kurulumu için `scss` veya `sass` uzantılı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
 
 ```scss
 // scss
@@ -98,6 +98,58 @@ Sass kurulumu için `scss` veya `sass` formatlı stil dosyanız içerisine aşa�
 ```
 ```sass
 // sass
+@import "flexiblegs/flexiblegs"
+```
+
+###LESS
+#####Kaynak Kodu
+```
+less/
+└── flexiblegs/
+    ├── flexiblegs.less
+    └── flexiblegs/
+        ├── layout.less
+        ├── mixins.less
+        └── mixins/
+            ├── container.less
+            ├── wrap.less
+            ├── flexbox.less
+            ├── col.less
+            ├── gutter.less
+            └── align.less
+```
+Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
+
+####Kurulum
+LESS kurulumu için `less` uzantılı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
+
+```less
+@import "flexiblegs/flexiblegs.less";
+```
+
+###Stylus
+#####Kaynak Kodu
+```
+stylus/
+└── flexiblegs/
+    ├── flexiblegs.styl
+    └── flexiblegs/
+        ├── layout.styl
+        ├── mixins.styl
+        └── mixins/
+            ├── container.styl
+            ├── wrap.styl
+            ├── flexbox.styl
+            ├── col.styl
+            ├── gutter.styl
+            └── align.styl
+```
+Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
+
+####Kurulum
+Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
+
+```styl
 @import "flexiblegs/flexiblegs"
 ```
 
