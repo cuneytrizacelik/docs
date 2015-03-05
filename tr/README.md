@@ -48,11 +48,55 @@ css/
 ```
 
 ####Kurulum
-CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
+CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
 ```html
 <head>
   <link rel="stylesheet" href="flexiblegs/flexiblegs.min.css">
 </head>
+```
+
+###Sass
+
+#####Kaynak Kodu
+```
+sass/
+├── flexiblegs/
+│   ├── _flexiblegs.sass
+│   └── flexiblegs/
+│       ├── _layout.sass
+│       ├── _mixins.sass
+│       └── mixins/
+│           ├── _container.sass
+│           ├── _wrap.sass
+│           ├── _flexbox.sass
+│           ├── _col.sass
+│           ├── _gutter.sass
+│           └── _align.sass
+scss/
+└── flexiblegs/
+    ├── _flexiblegs.scss
+    └── flexiblegs/
+        ├── _layout.scss
+        ├── _mixins.scss
+        └── mixins/
+            ├── _container.scss
+            ├── _wrap.scss
+            ├── _flexbox.scss
+            ├── _col.scss
+            ├── _gutter.scss
+            └── _align.scss
+```
+
+####Kurulum
+Sass kurulumu için `.scss` veya `.sass` formatlı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
+
+```scss
+// .scss
+@import "flexiblegs/flexiblegs";
+```
+```sass
+// .sass
+@import "flexiblegs/flexiblegs"
 ```
 
 ##Lisans
