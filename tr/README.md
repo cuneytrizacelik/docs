@@ -8,13 +8,6 @@ Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Styl
 
 ##Kurulum
 
-Flexible Grid System'in responsive olarak kullanılması için `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
-```html
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-```
-
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
 ####Statik
@@ -36,6 +29,14 @@ dynamic/
 ```
 
 [Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.2.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
+
+####Responsive
+Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
+```html
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+```
 
 ###[CSS](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs) (Statik)
 
