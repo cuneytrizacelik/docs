@@ -10,10 +10,10 @@ Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Styl
 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
-###Statik
+###Statik Kurulum
 Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit classlarını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
 
-###Dinamik
+###Dinamik Kurulum
 Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixinlerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
 
 ####Klasör Yapısı
@@ -38,7 +38,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 </head>
 ```
 
-###[CSS](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs) (Statik)
+###[CSS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs) (Statik)
 
 #####Kaynak Kodu
 ```
@@ -57,7 +57,7 @@ CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapman
 </head>
 ```
 
-###[Sass](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass) (Dinamik)
+###[Sass Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass) (Dinamik)
 
 #####Kaynak Kodu
 ```
@@ -102,7 +102,7 @@ Sass kurulumu için `scss` veya `sass` uzantılı stil dosyanız içerisine aşa
 @import "flexiblegs/flexiblegs"
 ```
 
-###[LESS](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs) (Dinamik)
+###[LESS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs) (Dinamik)
 #####Kaynak Kodu
 ```
 less/
@@ -128,7 +128,7 @@ LESS kurulumu için `less` uzantılı stil dosyanız içerisine aşağıdaki şe
 @import "flexiblegs/flexiblegs.less";
 ```
 
-###[Stylus](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs) (Dinamik)
+###[Stylus Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs) (Dinamik)
 #####Kaynak Kodu
 ```
 stylus/
@@ -154,7 +154,7 @@ Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki �
 @import "flexiblegs/flexiblegs"
 ```
 
-###[Ruby on Rails](https://github.com/flexiblegs/flexiblegs-rails) (Statik veya Dinamik)
+###[Ruby on Rails Kurulumu](https://github.com/flexiblegs/flexiblegs-rails) (Statik, Dinamik)
 
 Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
 
