@@ -35,6 +35,26 @@ dynamic/
 └── stylus/
 ```
 
+[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.2.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
+
+###CSS (Statik)
+
+#####Kaynak Kodu
+```
+css/
+└── flexiblegs/
+    ├── flexiblegs.css
+    └── flexiblegs.min.css
+```
+
+####Kurulum
+CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
+```html
+<head>
+  <link rel="stylesheet" href="flexiblegs/flexiblegs.min.css">
+</head>
+```
+
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
