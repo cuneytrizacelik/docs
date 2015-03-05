@@ -37,7 +37,7 @@ dynamic/
 
 [Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.2.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
 
-###[CSS](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
+###[CSS](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs) (Statik)
 
 #####Kaynak Kodu
 ```
@@ -56,7 +56,7 @@ CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapman
 </head>
 ```
 
-###[Sass](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
+###[Sass](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass) (Dinamik)
 
 #####Kaynak Kodu
 ```
@@ -101,7 +101,7 @@ Sass kurulumu için `scss` veya `sass` uzantılı stil dosyanız içerisine aşa
 @import "flexiblegs/flexiblegs"
 ```
 
-###[LESS](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
+###[LESS](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs) (Dinamik)
 #####Kaynak Kodu
 ```
 less/
@@ -127,7 +127,7 @@ LESS kurulumu için `less` uzantılı stil dosyanız içerisine aşağıdaki şe
 @import "flexiblegs/flexiblegs.less";
 ```
 
-###[Stylus](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
+###[Stylus](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs) (Dinamik)
 #####Kaynak Kodu
 ```
 stylus/
@@ -153,7 +153,7 @@ Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki �
 @import "flexiblegs/flexiblegs"
 ```
 
-###[Ruby on Rails](https://github.com/flexiblegs/flexiblegs-rails)
+###[Ruby on Rails](https://github.com/flexiblegs/flexiblegs-rails) (Statik veya Dinamik)
 
 Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
 
