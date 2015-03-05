@@ -153,6 +153,10 @@ Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki �
 @import "flexiblegs/flexiblegs"
 ```
 
+###[Ruby on Rails](https://github.com/flexiblegs/flexiblegs-rails)
+
+Kaynak Kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
+
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
