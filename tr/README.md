@@ -37,7 +37,7 @@ dynamic/
 
 [Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.2.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
 
-###CSS
+###[CSS](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
 #####Kaynak Kodu
 ```
@@ -56,7 +56,7 @@ CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapman
 </head>
 ```
 
-###Sass
+###[Sass](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 #####Kaynak Kodu
 ```
@@ -101,7 +101,7 @@ Sass kurulumu için `scss` veya `sass` uzantılı stil dosyanız içerisine aşa
 @import "flexiblegs/flexiblegs"
 ```
 
-###LESS
+###[LESS](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
 #####Kaynak Kodu
 ```
 less/
@@ -127,7 +127,7 @@ LESS kurulumu için `less` uzantılı stil dosyanız içerisine aşağıdaki şe
 @import "flexiblegs/flexiblegs.less";
 ```
 
-###Stylus
+###[Stylus](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
 #####Kaynak Kodu
 ```
 stylus/
