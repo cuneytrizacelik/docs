@@ -46,7 +46,7 @@ css/
     ├── flexiblegs.css
     └── flexiblegs.min.css
 ```
-Dosyaları [görüntüleyin](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
+Dosyaları *[görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)*
 
 ####Kurulum
 CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
@@ -87,7 +87,7 @@ scss/
             ├── _gutter.scss
             └── _align.scss
 ```
-Dosyaları [görüntüleyin](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
+Dosyaları *[görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)*
 
 ####Kurulum
 Sass kurulumu için `scss` veya `sass` formatlı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
