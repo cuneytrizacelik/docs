@@ -88,12 +88,13 @@ scss/
 ```
 
 ####Kurulum
-Sass kurulumu için `.scss` veya `.sass` formatlı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
+Sass kurulumu için `scss` veya `sass` formatlı stil dosyanız içerisine aşağıdaki şekilde ekleme yapmanız yeterli olacaktır.
 
+*.scss*
 ```scss
-// .scss
 @import "flexiblegs/flexiblegs";
 ```
+*.sass*
 ```sass
 // .sass
 @import "flexiblegs/flexiblegs"
