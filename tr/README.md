@@ -2,11 +2,12 @@
 
 Flexible Grid System bir Responsive CSS Framework'üdür.
 
-Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Stylus** bilmeniz gerekmektedir. Öğrenmeye başlamadan önce ise **Grid System** ve **Responive Design** hakkında birazcık bilgi sahibi olmanız yeterlidir.
+Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Stylus** bilmeniz gerekmektedir.
+Öğrenmeye başlamadan önce ise **Grid System** ve **Responive Design** hakkında birazcık bilgi sahibi olmanız yeterlidir.
 
 ##Kurulum
 
-flexiblegs'nin responsive olarak kullanılması için `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
+Flexible Grid System'in responsive olarak kullanılması için `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
 ```html
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
