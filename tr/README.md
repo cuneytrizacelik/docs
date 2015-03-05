@@ -7,7 +7,7 @@ Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Styl
 ##Kurulum
 
 flexiblegs'nin responsive olarak kullanılması için `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
-```
+```html
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
