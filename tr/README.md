@@ -10,11 +10,15 @@ Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Styl
 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
-###Statik Kurulum
+###Statik
 Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit classlarını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
+- [CSS](#css-kurulumu)
 
-###Dinamik Kurulum
+###Dinamik
 Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixinlerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
+- [Sass](#sass-kurulumu)
+- [LESS](#less-kurulumu)
+- [Stylus](#stylus-kurulumu)
 
 ####Klasör Yapısı
 ```
@@ -38,7 +42,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 </head>
 ```
 
-###[CSS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs) (Statik)
+###[CSS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
 #####Kaynak Kodu
 ```
@@ -57,7 +61,7 @@ CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapman
 </head>
 ```
 
-###[Sass Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass) (Dinamik)
+###[Sass Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 #####Kaynak Kodu
 ```
@@ -102,7 +106,7 @@ Sass kurulumu için `scss` veya `sass` uzantılı stil dosyanız içerisine aşa
 @import "flexiblegs/flexiblegs"
 ```
 
-###[LESS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs) (Dinamik)
+###[LESS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
 #####Kaynak Kodu
 ```
 less/
@@ -128,7 +132,7 @@ LESS kurulumu için `less` uzantılı stil dosyanız içerisine aşağıdaki şe
 @import "flexiblegs/flexiblegs.less";
 ```
 
-###[Stylus Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs) (Dinamik)
+###[Stylus Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
 #####Kaynak Kodu
 ```
 stylus/
