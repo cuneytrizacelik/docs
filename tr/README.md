@@ -158,7 +158,7 @@ Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki �
 @import "flexiblegs/flexiblegs"
 ```
 
-###[Ruby on Rails Kurulumu](https://github.com/flexiblegs/flexiblegs-rails) (Statik, Dinamik)
+###[Ruby on Rails Kurulumu](https://github.com/flexiblegs/flexiblegs-rails)
 
 Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
 
