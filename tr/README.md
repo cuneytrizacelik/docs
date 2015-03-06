@@ -157,7 +157,7 @@ Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
 Öğrenmeye başlamadan önce **Grid System** ve **Responive Design** hakkında bilgi sahibi olmanız gerekmektedir.
 
 ####Responsive Meta
-Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız gerekmektedir.
+Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head>` tagleri arasına aşağıdaki şekilde ekleme yapmanız gerekmektedir.
 ```html
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -167,6 +167,8 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 ###CSS Kodları
 
 Bu kısımda Flexible Grid System altyapısını oluştururken kullanılan CSS kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olabilirsiniz.
+
+###// layout
 
 Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gerekmektedir. Bu sayede genişlik belirtilmiş elementlere `padding` özelliği eklendiğinde element genişliklerindeki bozulmayı engellemiş oluruz.
 
@@ -178,8 +180,18 @@ Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gere
 }
 ```
 
-###container
+###// container
 **container** class veya mixinini içerisinde yazdığımız css kodlarının açıklamaları aşağıdaki gibidir.
+
+```css
+max-width: 1140px;
+```
+CSS kısmında container genişliği `1140px` ile sınırlıdır değişiklik yapmanızda sakınca yoktur. Sass, LESS veya Stylus kısmında container mixinini kullanırken istediğiniz genişliği belirtmeniz mümkündür.
+
+```css
+margin-left: auto;
+margin-right: auto;
+```
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
