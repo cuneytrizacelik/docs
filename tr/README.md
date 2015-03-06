@@ -4,8 +4,6 @@ Flexible Grid System bir Responsive CSS Framework'üdür.
 
 Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Stylus** bilmeniz gerekmektedir.
 
-Öğrenmeye başlamadan önce ise **Grid System** ve **Responive Design** hakkında birazcık bilgi sahibi olmanız yeterlidir.
-
 ##Kurulum
 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
@@ -33,14 +31,6 @@ dynamic/
 ```
 
 [Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.2.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
-
-####Responsive
-Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız yeterli olacaktır.
-```html
-<head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-```
 
 ###[CSS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
@@ -161,6 +151,35 @@ Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki �
 ###[Ruby on Rails Kurulumu](https://github.com/flexiblegs/flexiblegs-rails)
 
 Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
+
+##Öğrenme
+
+Öğrenmeye başlamadan önce **Grid System** ve **Responive Design** hakkında bilgi sahibi olmanız gerekmektedir.
+
+####Responsive Meta
+Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head>` tagleri arasına aşağıdaki şekilde bir ekleme yapmanız gerekmektedir.
+```html
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+```
+
+###CSS Kodları
+
+Bu kısımda Flexible Grid System altyapısını oluştururken kullanılan CSS kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olabilirsiniz.
+
+Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gerekmektedir. Bu sayede genişlik belirtilmiş elementlere `padding` özelliği eklendiğinde element genişliklerindeki bozulmayı engellemiş oluruz.
+
+```css
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+```
+
+###container
+**container** class veya mixinini içerisinde yazdığımız css kodlarının açıklamaları aşağıdaki gibidir.
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
