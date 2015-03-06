@@ -180,7 +180,7 @@ Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gere
 
 ###container
 
-**CSS** kısmında **container** class genişliği `1140px` ile sınırlıdır. Değişiklik yapmanızda sakınca yoktur. **Sass**, **LESS** veya **Stylus** kısmında **container** mixinini kullanırken istediğiniz genişliği dinamik olarak belirtmeniz mümkün olacaktır. **container** class veya mixini eklenen elementin belirtilen genişlik kadar sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır. Ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` özelliği eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında **container** ekli elementin `100%` olarak davranmasını sağlar.
+**CSS** kısmında **container** class genişliği `1140px` ile sınırlıdır. Değişiklik yapmanızda sakınca yoktur. **Sass**, **LESS** veya **Stylus** kısmında **container** mixinini kullanırken istediğiniz genişliği dinamik olarak belirtmeniz mümkün olacaktır. **container** class veya mixini eklenen elementin belirtilen genişlik kadar sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır. Ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` özelliği eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında **container** ekli elementin `100%` olarak davranmasını sağlayacaktır.
 
 ```css
 .container {
@@ -189,8 +189,6 @@ Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gere
   margin-right: auto;
 }
 ```
-
-###wrap
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
