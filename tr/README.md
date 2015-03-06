@@ -166,11 +166,9 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ###CSS Kodları
 
-Bu kısımda Flexible Grid System altyapısını oluştururken kullanılan CSS kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olabilirsiniz.
+Öncelikle Flexible Grid System altyapısı oluşurken kullanılan CSS kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır.
 
-###// layout
-
-Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gerekmektedir. Bu sayede genişlik belirtilmiş elementlere `padding` özelliği eklendiğinde element genişliklerindeki bozulmayı engellemiş oluruz.
+Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gerekmektedir. Bu sayede genişlik belirtilmiş elementlere `padding` özelliği eklendiğinde element genişliklerindeki bozulmayı engellemiş oluruz. `padding` özelliği sadece **gutter** class veya mixini kullanıldığında eklenmektedir.
 
 ```css
 *, *:before, *:after {
@@ -180,18 +178,18 @@ Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gere
 }
 ```
 
-###// container
-**container** class veya mixinini içerisinde yazdığımız css kodlarının açıklamaları aşağıdaki gibidir.
+###container
+
+CSS kısmında container classı genişliği `1140px` ile sınırlıdır. Değişiklik yapmanızda sakınca yoktur. Sass, LESS veya Stylus kısmında container mixinini kullanırken istediğiniz genişliği dinamik olarak belirtmeniz mümkün olacaktır. container classı veya mixini eklenen elementin belirtilen genişlik doğrultusunda sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır. Ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında container ekli elementin `100%` olarak davranmasını sağlar.
 
 ```css
-max-width: 1140px;
+.container {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}
 ```
-CSS kısmında container genişliği `1140px` ile sınırlıdır değişiklik yapmanızda sakınca yoktur. Sass, LESS veya Stylus kısmında container mixinini kullanırken istediğiniz genişliği belirtmeniz mümkündür.
 
-```css
-margin-left: auto;
-margin-right: auto;
-```
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
