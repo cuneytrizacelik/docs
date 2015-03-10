@@ -59,7 +59,7 @@ sass/
 ├── flexiblegs/
 │   ├── _flexiblegs.sass
 │   └── flexiblegs/
-│       ├── _layout.sass
+│       ├── _breakpoints.sass
 │       ├── _mixins.sass
 │       └── mixins/
 │           ├── _container.sass
@@ -72,7 +72,7 @@ scss/
 └── flexiblegs/
     ├── _flexiblegs.scss
     └── flexiblegs/
-        ├── _layout.scss
+        ├── _breakpoints.scss
         ├── _mixins.scss
         └── mixins/
             ├── _container.scss
@@ -103,7 +103,7 @@ less/
 └── flexiblegs/
     ├── flexiblegs.less
     └── flexiblegs/
-        ├── layout.less
+        ├── breakpoints.less
         ├── mixins.less
         └── mixins/
             ├── container.less
@@ -129,7 +129,7 @@ stylus/
 └── flexiblegs/
     ├── flexiblegs.styl
     └── flexiblegs/
-        ├── layout.styl
+        ├── breakpoints.styl
         ├── mixins.styl
         └── mixins/
             ├── container.styl
@@ -167,16 +167,6 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 ###CSS Kodları
 
 Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır.
-
-Sayfadaki tüm elementlere `box-sizing: border-box;` özelliğini eklememiz gerekmektedir. Bu sayede genişlik belirtilmiş elementlere `padding` özelliği eklendiğinde element genişliklerindeki bozulmayı engellemiş oluruz. `padding` özelliği sadece **gutter** class veya mixini kullanıldığında eklenmektedir.
-
-```css
-*, *:before, *:after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-```
 
 ###container
 
