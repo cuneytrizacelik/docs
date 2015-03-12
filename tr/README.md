@@ -237,4 +237,4 @@ margin-right: auto;
 
 PayPal aracılığıyla bağış yapabilirsiniz :)
 
-***NOT :** Dökümantasyonu yazmaya devam ediyorum **[@dnomak](https://github.com/dnomak)** adresinden beni takip edebilirsiniz.*
+***NOT :*** *Dökümantasyonu yazmaya devam ediyorum* ***[@dnomak](https://github.com/dnomak)*** *adresinden beni takip edebilirsiniz.*
