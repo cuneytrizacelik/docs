@@ -219,11 +219,11 @@ margin-right: auto;
     - Flexible Navbar
     - Flexible Tabs
     - Flexible Slider ve daha fazlası :)
-  - Flexible Formule · Tweet linkini [görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
+  - Flexible Formule · [Tweet linkini görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
   - Responsive Test
-  - Customization · Geliştirme aşamasını [götüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
+  - Customization · [Geliştirme aşamasını götüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
   - Hikaye
-- Flexible Grid Builder · Geliştirme aşamasını [götüntüleyin.](https://github.com/flexiblegs/gridbuilder)
+- Flexible Grid Builder · [Geliştirme aşamasını götüntüleyin.](https://github.com/flexiblegs/gridbuilder)
 - Flexible Frontend Editor
 - Flexible Shop
   - Mug
@@ -237,4 +237,4 @@ margin-right: auto;
 
 PayPal aracılığıyla bağış yapabilirsiniz :)
 
-***NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.***
+***NOT :** Dökümantasyonu yazmaya devam ediyorum **[@dnomak](https://github.com/dnomak)** adresinden beni takip edebilirsiniz.*
