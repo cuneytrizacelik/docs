@@ -86,7 +86,7 @@ sass/
                 ├── _col.scss
                 ├── _gutter.scss
                 └── _align.scss
-    ```
+```
 Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 ####Kurulum
@@ -186,6 +186,7 @@ max-width: width;
 margin-left: auto;
 margin-right: auto;
 ```
+
 
 > NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.
 
