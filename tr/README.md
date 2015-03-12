@@ -209,7 +209,7 @@ margin-right: auto;
 
 ##Gelecek
 
-- Flexible Grid System Yeni Websitesi · [Geliştirme aşaması](https://github.com/flexiblegs/website)
+- Flexible Grid System Yeni Websitesi · Geliştirme aşamasını [götüntüleyin.](https://github.com/flexiblegs/website)
   - Kurulum
   - Öğrenme
   - Kütüphane
@@ -219,11 +219,11 @@ margin-right: auto;
     - Flexible Navbar
     - Flexible Tabs
     - Flexible Slider ve daha fazlası :)
-  - Flexible Formule · [Tweet linki](https://twitter.com/flexiblegs/status/550265997639573504)
+  - Flexible Formule · Tweet linkini [görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
   - Responsive Test
-  - Customization · [Geliştirme aşaması](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
+  - Customization · Geliştirme aşamasını [götüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
   - Hikaye
-- Flexible Grid Builder · [Geliştirme aşaması](https://github.com/flexiblegs/gridbuilder)
+- Flexible Grid Builder · Geliştirme aşamasını [götüntüleyin.](https://github.com/flexiblegs/gridbuilder)
 - Flexible Frontend Editor
 - Flexible Shop
   - Mug
