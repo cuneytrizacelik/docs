@@ -60,32 +60,33 @@ CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapman
 #####Kaynak Kodu
 ```
 sass/
-├── flexiblegs/
-│   ├── _flexiblegs.sass
-│   └── flexiblegs/
-│       ├── _breakpoints.sass
-│       ├── _mixins.sass
-│       └── mixins/
-│           ├── _container.sass
-│           ├── _wrap.sass
-│           ├── _flexbox.sass
-│           ├── _col.sass
-│           ├── _gutter.sass
-│           └── _align.sass
-scss/
-└── flexiblegs/
-    ├── _flexiblegs.scss
+└── sass/
+    ├── flexiblegs/
+    │   ├── _flexiblegs.sass
+    │   └── flexiblegs/
+    │       ├── _breakpoints.sass
+    │       ├── _mixins.sass
+    │       └── mixins/
+    │           ├── _container.sass
+    │           ├── _wrap.sass
+    │           ├── _flexbox.sass
+    │           ├── _col.sass
+    │           ├── _gutter.sass
+    │           └── _align.sass
+    scss/
     └── flexiblegs/
-        ├── _breakpoints.scss
-        ├── _mixins.scss
-        └── mixins/
-            ├── _container.scss
-            ├── _wrap.scss
-            ├── _flexbox.scss
-            ├── _col.scss
-            ├── _gutter.scss
-            └── _align.scss
-```
+        ├── _flexiblegs.scss
+        └── flexiblegs/
+            ├── _breakpoints.scss
+            ├── _mixins.scss
+            └── mixins/
+                ├── _container.scss
+                ├── _wrap.scss
+                ├── _flexbox.scss
+                ├── _col.scss
+                ├── _gutter.scss
+                └── _align.scss
+    ```
 Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 ####Kurulum
