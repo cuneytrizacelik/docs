@@ -233,15 +233,8 @@ margin-right: auto;
   - Kahve (Flexible Blend)
   - Havuçlu Kek (flexible.gs logolu kek kalıbında :P) ve daha fazlası :)
 
-##Bağış yapın
+##PayPal
 
-PayPal aracılığıyla bağış yapın :)
+PayPal aracılığıyla bağış yapabilirsiniz :)
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="NHEUHUB8863NS">
-<input type="image" src="http://flexible.gs/svg/ppcom.svg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<img alt="" border="0" src="https://www.paypalobjects.com/tr_TR/i/scr/pixel.gif" width="1" height="1" alt="PayPal">
-</form>
-
-*NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.*
+***NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.***
