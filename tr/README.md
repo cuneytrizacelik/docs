@@ -2,12 +2,9 @@
 
 Flexible Grid System bir Responsive CSS Framework'üdür.
 
-##İndirin
-[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
+Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Stylus** bilmeniz gerekmektedir.
 
 ##Kurulum
-
-Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Stylus** bilmeniz gerekmektedir.
 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
@@ -32,6 +29,9 @@ dynamic/
 ├── less/
 └── stylus/
 ```
+
+###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip)
+[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
 
 ###[CSS](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
