@@ -11,12 +11,14 @@ Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Stati
 ###Statik
 Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit classlarını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
 - [CSS Kurulumu](#css-kurulumu)
+- [Ruby on Rails Kurulumu](#ruby-on-rails-kurulumu)
 
 ###Dinamik
 Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixinlerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
 - [Sass Kurulumu](#sass-kurulumu)
 - [LESS Kurulumu](#less-kurulumu)
 - [Stylus Kurulumu](#stylus-kurulumu)
+- [Ruby on Rails Kurulumu](#ruby-on-rails-kurulumu)
 
 ###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip)
 
@@ -172,6 +174,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 ###CSS Kodları
 
 Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır.
+> Örnek kod parçalarında CSS kısmında sabit Sass, LESS veya Stylus kısmında dinamik olacak kısımları @ işareti ile belirtilmektedir.
 
 ###container
 
@@ -182,13 +185,22 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 **container** class veya mixini eklenen elementin belirtilen genişlik kadar sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır, ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` özelliği eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında **container** ekli elementin `100%` olarak davranmasını sağlayacaktır.
 
 ```
-max-width: width;
+max-width: @width;
 margin-left: auto;
 margin-right: auto;
 ```
 
+###wrap
 
-> NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.
+###flexbox
+
+###col
+
+###gutter
+
+###align
+
+*NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.*
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
