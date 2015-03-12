@@ -2,21 +2,24 @@
 
 Flexible Grid System bir Responsive CSS Framework'üdür.
 
-Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Stylus** bilmeniz gerekmektedir.
+##İndirin
+[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
 
 ##Kurulum
+
+Kuruluma başlamadan önce **HTML**, **CSS** veya **Sass**, **LESS** yada **Stylus** bilmeniz gerekmektedir.
 
 Flexible Grid System ile kod yazmanın iki yöntemi bulunmaktadır. Bunlar Statik ve Dinamik olmak üzere ikiye ayrılır. İki yöntemi aynı anda yada ayrı ayrı kullanmanız mümkündür.
 
 ###Statik
 Statik yönetimi tercih ederseniz Flexible Grid System'in **CSS** ile hazırlanmış sabit classlarını kullanarak **HTML** kısmında kodlama yapabilirsiniz.
-- [CSS](#css-kurulumu)
+- [CSS](#css)
 
 ###Dinamik
 Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** veya **Stylus** ile hazırlanmış mixinlerini kullanarak **CSS** kısmında kodlama yapabilirsiniz.
-- [Sass](#sass-kurulumu)
-- [LESS](#less-kurulumu)
-- [Stylus](#stylus-kurulumu)
+- [Sass](#sass)
+- [LESS](#less)
+- [Stylus](#stylus)
 
 ####Klasör Yapısı
 ```
@@ -30,9 +33,7 @@ dynamic/
 └── stylus/
 ```
 
-[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
-
-###[CSS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
+###[CSS](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
 #####Kaynak Kodu
 ```
@@ -51,7 +52,7 @@ CSS kurulumu için `<head>` tagleri arasına aşağıdaki şekilde ekleme yapman
 </head>
 ```
 
-###[Sass Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
+###[Sass](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/sass)
 
 #####Kaynak Kodu
 ```
@@ -96,7 +97,7 @@ Sass kurulumu için `scss` veya `sass` uzantılı stil dosyanız içerisine aşa
 @import "flexiblegs/flexiblegs"
 ```
 
-###[LESS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
+###[LESS](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/less/flexiblegs)
 #####Kaynak Kodu
 ```
 less/
@@ -122,7 +123,7 @@ LESS kurulumu için `less` uzantılı stil dosyanız içerisine aşağıdaki şe
 @import "flexiblegs/flexiblegs.less";
 ```
 
-###[Stylus Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
+###[Stylus](https://github.com/flexiblegs/flexiblegs/tree/master/dynamic/stylus/flexiblegs)
 #####Kaynak Kodu
 ```
 stylus/
@@ -148,7 +149,7 @@ Stylus kurulumu için `styl` uzantılı stil dosyanız içerisine aşağıdaki �
 @import "flexiblegs/flexiblegs"
 ```
 
-###[Ruby on Rails Kurulumu](https://github.com/flexiblegs/flexiblegs-rails)
+###[Ruby on Rails](https://github.com/flexiblegs/flexiblegs-rails)
 
 Kaynak kodunu [görüntüleyin.](https://github.com/flexiblegs/flexiblegs-rails)
 
@@ -177,6 +178,8 @@ max-width: width;
 margin-left: auto;
 margin-right: auto;
 ```
+
+*###Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.*
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
