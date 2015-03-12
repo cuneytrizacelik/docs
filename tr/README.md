@@ -179,7 +179,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 **Sass**, **LESS** veya **Stylus** kısmında **container** mixinini kullanırken istediğiniz genişliği dinamik olarak belirtmeniz mümkün olacaktır.
 
-**container** class veya mixini eklenen elementin belirtilen genişlik kadar sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır. Ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` özelliği eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında **container** ekli elementin `100%` olarak davranmasını sağlayacaktır.
+**container** class veya mixini eklenen elementin belirtilen genişlik kadar sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır, ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` özelliği eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında **container** ekli elementin `100%` olarak davranmasını sağlayacaktır.
 
 ```
 max-width: width;
