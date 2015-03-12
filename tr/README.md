@@ -174,7 +174,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 ###CSS Kodları
 
 Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır.
-> Örnek kod parçalarında CSS kısmında sabit Sass, LESS veya Stylus kısmında dinamik olacak kısımları @ işareti ile belirtilmektedir.
+> Örnek kodlarda CSS kısmında sabit Sass, LESS veya Stylus kısmında dinamik olacak kısımları @ işareti ile belirtilmektedir.
 
 ###container
 
@@ -200,10 +200,10 @@ margin-right: auto;
 
 ###align
 
-*NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.*
-
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
 - Flexible Grid System dökümantasyonu Creative Commons Attribution 4.0 International Lisansı altında lisanslanmıştır.
   - [http://creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0)
+
+*NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.*
