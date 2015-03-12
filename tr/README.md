@@ -174,9 +174,10 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 ###CSS Kodları
 
 Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır.
-> Örnek kodlarda CSS kısmında sabit Sass, LESS veya Stylus kısmında dinamik olacak kısımları @ işareti ile belirtilmektedir.
 
-###container
+Örnek kodlarda CSS kısmında sabit Sass, LESS veya Stylus kısmında dinamik olacak kısımları @ işareti ile belirtilmektedir.
+
+###.container
 
 **CSS** kısmında **container** class genişliği `1140px` ile sınırlıdır. Değişiklik yapmanızda sakınca yoktur.
 
@@ -190,20 +191,57 @@ margin-left: auto;
 margin-right: auto;
 ```
 
-###wrap
+###.wrap
 
-###flexbox
+###.flexbox
 
-###col
+###.col
 
-###gutter
+###.gutter
 
-###align
+###.align
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
 - Flexible Grid System dökümantasyonu Creative Commons Attribution 4.0 International Lisansı altında lisanslanmıştır.
   - [http://creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0)
+
+##Gelecek
+
+- Flexible Grid System Yeni Websitesi · [Geliştirme aşaması](https://github.com/flexiblegs/website)
+  - Kurulum
+  - Öğrenme
+  - Kütüphane
+    - Flexible Colors
+    - Flexible Style
+    - Flexible Fonticons
+    - Flexible Navbar
+    - Flexible Tabs
+    - Flexible Slider ve daha fazlası :)
+  - Flexible Formule · [Tweet linki](https://twitter.com/flexiblegs/status/550265997639573504)
+  - Responsive Test
+  - Customization · [Geliştirme aşaması](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
+  - Hikaye
+- Flexible Grid Builder · [Geliştirme aşaması](https://github.com/flexiblegs/gridbuilder)
+- Flexible Frontend Editor
+- Flexible Shop
+  - Mug
+  - Shirt
+  - Sticker ve daha fazlası :)
+- Flexible Workspace & Cafe
+  - Kahve (Flexible Blend)
+  - Havuçlu Kek (flexible.gs logolu kek kalıbında :P) ve daha fazlası :)
+
+##Bağış yapın
+
+PayPal aracılığıyla bağış yapın :)
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="NHEUHUB8863NS">
+<input type="image" src="http://flexible.gs/svg/ppcom.svg" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/tr_TR/i/scr/pixel.gif" width="1" height="1" alt="PayPal">
+</form>
 
 *NOT : Dökümantasyonu yazmaya devam ediyorum [@dnomak](https://github.com/dnomak) adresinden beni takip edebilirsiniz.*
