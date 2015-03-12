@@ -18,6 +18,10 @@ Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** vey
 - [LESS Kurulumu](#less-kurulumu)
 - [Stylus Kurulumu](#stylus-kurulumu)
 
+###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip)
+
+[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
+
 ####Klasör Yapısı
 ```
 static/
@@ -30,10 +34,7 @@ dynamic/
 └── stylus/
 ```
 
----
-###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip)
-[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
----
+
 
 ###[CSS Kurulumu](https://github.com/flexiblegs/flexiblegs/tree/master/static/css/flexiblegs)
 
@@ -173,7 +174,11 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ###container
 
-**CSS** kısmında **container** class genişliği `1140px` ile sınırlıdır. Değişiklik yapmanızda sakınca yoktur. **Sass**, **LESS** veya **Stylus** kısmında **container** mixinini kullanırken istediğiniz genişliği dinamik olarak belirtmeniz mümkün olacaktır. **container** class veya mixini eklenen elementin belirtilen genişlik kadar sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır. Ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` özelliği eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında **container** ekli elementin `100%` olarak davranmasını sağlayacaktır.
+**CSS** kısmında **container** class genişliği `1140px` ile sınırlıdır. Değişiklik yapmanızda sakınca yoktur.
+
+**Sass**, **LESS** veya **Stylus** kısmında **container** mixinini kullanırken istediğiniz genişliği dinamik olarak belirtmeniz mümkün olacaktır.
+
+**container** class veya mixini eklenen elementin belirtilen genişlik kadar sayfada ortalı durmanısını sağlayan özellik ise `margin-left: auto;` ve `margin-right: auto;` kullanımıdır. Ayrı olarak belirtilmesinin sebebi `margin-top` veya `margin-bottom` özelliği eklemesi yapıldığında belirttiğiniz değerin ezilmemesini sağlar. `max-width` kullanımı ise ekran boyutunuz daraldığında **container** ekli elementin `100%` olarak davranmasını sağlayacaktır.
 
 ```
 max-width: width;
