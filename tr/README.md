@@ -209,7 +209,7 @@ margin-right: auto;
 
 ##Gelecek
 
-- Flexible Grid System Yeni Websitesi · Geliştirme aşamasını [götüntüleyin.](https://github.com/flexiblegs/website)
+- Flexible Grid System New Sitemap · [Geliştirme aşamasını götüntüleyin.](https://github.com/flexiblegs/website)
   - Kurulum
   - Öğrenme
   - Kütüphane
@@ -231,7 +231,7 @@ margin-right: auto;
   - Sticker ve daha fazlası :)
 - Flexible Workspace & Cafe
   - Kahve (Flexible Blend)
-  - Havuçlu Kek (flexible.gs logolu kek kalıbında :P) ve daha fazlası :)
+  - Havuçlu Kek (Flexible Grid System logolu kek kalıbında) ve daha fazlası :P
 
 ##PayPal
 
