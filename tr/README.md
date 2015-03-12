@@ -209,7 +209,7 @@ margin-right: auto;
 
 ##Gelecek
 
-- Flexible Grid System New Sitemap · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website)
+- Flexible Grid System Yeni Websitesi · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website)
   - Kurulum
   - Öğrenme
   - Kütüphane
