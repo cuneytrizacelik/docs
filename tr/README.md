@@ -175,7 +175,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır.
 
-Örnek kodlarda CSS kısmında sabit Sass, LESS veya Stylus kısmında dinamik olacak kısımları @ işareti ile belirtilmektedir.
+Kod parçalarında **CSS** kısmında sabit **Sass**, **LESS** veya **Stylus** kısmında dinamik olacak kısımları **@degiskeninismi** şeklinde belirtilmektedir.
 
 ###.container
 
