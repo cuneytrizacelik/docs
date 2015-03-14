@@ -220,7 +220,6 @@ margin-right: auto;
   - Formül · [Tweet linkini görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
   - Responsive Test
   - Özelleştirme · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
-  - Hikaye
 - Flexible Grid Builder · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/gridbuilder)
 - Flexible Frontend Editor
 - Flexible Shop
