@@ -171,11 +171,9 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 </head>
 ```
 
-###CSS Kodları
+###Backend
 
-Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır.
-
-Kod parçalarında **CSS** kısmında sabit **Sass**, **LESS** veya **Stylus** kısmında dinamik olacak kısımları **@degiskeninismi** şeklinde belirtilmektedir.
+Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır. Kod parçalarında **CSS** kısmında sabit **Sass**, **LESS** veya **Stylus** kısmında dinamik olacak kısımları **@degiskeninismi** şeklinde belirtilmektedir.
 
 ###.container
 
@@ -219,9 +217,9 @@ margin-right: auto;
     - Flexible Navbar
     - Flexible Tabs
     - Flexible Slider ve daha fazlası :)
-  - Flexible Formule · [Tweet linkini görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
+  - Formül · [Tweet linkini görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
   - Responsive Test
-  - Customization · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
+  - Özelleştirme · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
   - Hikaye
 - Flexible Grid Builder · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/gridbuilder)
 - Flexible Frontend Editor
