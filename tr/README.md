@@ -20,9 +20,9 @@ Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** vey
 - [Stylus Kurulumu](#stylus-kurulumu)
 - [Ruby on Rails Kurulumu](#ruby-on-rails-kurulumu)
 
-###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip)
+###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.4.zip)
 
-[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.3.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
+[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.4.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
 
 ####Klasör Yapısı
 ```
@@ -69,7 +69,6 @@ sass/
     │       ├── _breakpoints.sass
     │       ├── _mixins.sass
     │       └── mixins/
-    │           ├── _container.sass
     │           ├── _wrap.sass
     │           ├── _flexbox.sass
     │           ├── _col.sass
@@ -82,7 +81,6 @@ sass/
             ├── _breakpoints.scss
             ├── _mixins.scss
             └── mixins/
-                ├── _container.scss
                 ├── _wrap.scss
                 ├── _flexbox.scss
                 ├── _col.scss
@@ -113,7 +111,6 @@ less/
         ├── breakpoints.less
         ├── mixins.less
         └── mixins/
-            ├── container.less
             ├── wrap.less
             ├── flexbox.less
             ├── col.less
@@ -139,7 +136,6 @@ stylus/
         ├── breakpoints.styl
         ├── mixins.styl
         └── mixins/
-            ├── container.styl
             ├── wrap.styl
             ├── flexbox.styl
             ├── col.styl
