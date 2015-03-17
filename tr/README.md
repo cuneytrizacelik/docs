@@ -220,6 +220,6 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
 
 ##PayPal
 
-PayPal aracılığıyla bağış yapabilirsiniz :)
+PayPal aracılığıyla bağış yapabilirsiniz :) `me@dnomak.com`
 
 ***NOT :*** *Dökümantasyonu yazmaya devam ediyorum* ***[@dnomak](https://github.com/dnomak)*** *adresinden beni takip edebilirsiniz.*
