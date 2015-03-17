@@ -187,12 +187,6 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek sağlanmaktadır.
 
-##Lisans
-- Flexible Grid System MIT Lisansı altında lisanslanmıştır.
-  - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
-- Flexible Grid System dökümantasyonu Creative Commons Attribution 4.0 International Lisansı altında lisanslanmıştır.
-  - [http://creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0)
-
 ##Gelecek
 
 - Flexible Grid System Yeni Websitesi · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website)
@@ -217,6 +211,12 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
 - Flexible Workspace & Cafe
   - Kahve (Flexible Blend)
   - Havuçlu Kek (Flexible Grid System logolu kek kalıbında) ve daha fazlası :P
+
+##Lisans
+- Flexible Grid System MIT Lisansı altında lisanslanmıştır.
+  - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
+- Flexible Grid System dökümantasyonu Creative Commons Attribution 4.0 International Lisansı altında lisanslanmıştır.
+  - [http://creativecommons.org/licenses/by/4.0](http://creativecommons.org/licenses/by/4.0)
 
 ##PayPal
 
