@@ -189,9 +189,9 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
 
 ##Gelecek
 
-- Flexible Grid System Yeni Websitesi · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website)
-  - Kurulum
-  - Öğrenme
+- Flexible Grid System Yeni Websitesi · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/website)
+  - Kurulum · [Görüntüleyin.](https://github.com/flexiblegs/docs/tree/master/tr/#kurulum)
+  - Öğrenme · [Görüntüleyin.](https://github.com/flexiblegs/docs/tree/master/tr/#Öğrenme)
   - Kütüphane
     - Flexible Colors
     - Flexible Styles
@@ -201,8 +201,8 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
     - Flexible Slider ve daha fazlası :)
   - Formül · [Tweet linkini görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
   - Responsive Test
-  - Özelleştirme · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
-- Flexible Grid Builder · [Kaynak kodunu götüntüleyin.](https://github.com/flexiblegs/gridbuilder)
+  - Özelleştirme · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/website/blob/master/app/models/customization.rb)
+- Flexible Grid Builder · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/gridbuilder)
 - Flexible Frontend Editor
 - Flexible Shop
   - Mug
