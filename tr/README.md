@@ -190,8 +190,8 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
 ##Gelecek
 
 - Flexible Grid System Yeni Websitesi · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/website)
-  - Kurulum · [Görüntüleyin.](https://github.com/flexiblegs/docs/tree/master/tr/#kurulum)
-  - Öğrenme · [Görüntüleyin.](https://github.com/flexiblegs/docs/tree/master/tr/#Öğrenme)
+  - Kurulum · [Kurulum kısmını görüntüleyin.](https://github.com/flexiblegs/docs/tree/master/tr/#kurulum)
+  - Öğrenme · [Öğrenme kısmını görüntüleyin.](https://github.com/flexiblegs/docs/tree/master/tr/#Öğrenme)
   - Kütüphane
     - Flexible Colors
     - Flexible Styles
