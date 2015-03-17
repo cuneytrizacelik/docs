@@ -167,7 +167,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ###Backend
 
-Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır. Kod parçalarında **CSS** kısmında sabit **Sass**, **LESS** veya **Stylus** kısmında dinamik olacak kısımları **@degiskeninismi** şeklinde belirtilmektedir.
+Öncelikle Flexible Grid System altyapısı oluşurken kullanılan **CSS** kodlarını, neden kullanıldıklarını ve arkaplanda işlerin nasıl çalıştığıyla ilgili bilgi sahibi olmanız kullanım hakimiyetiniz açısından oldukça faydalı olacaktır. Kod parçalarında **CSS** kısmında sabit **Sass**, **LESS** veya **Stylus** kısmında dinamik olacak kısımları **@degisken** şeklinde belirtilmektedir.
 
 ###.wrap
 
