@@ -200,7 +200,7 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
   - Öğrenme
   - Kütüphane
     - Flexible Colors
-    - Flexible Style
+    - Flexible Styles
     - Flexible Fonticons
     - Flexible Navbar
     - Flexible Tabs
