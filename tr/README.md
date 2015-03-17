@@ -179,7 +179,13 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ###.align
 
-##Tarayıcı
+##Tarayıcı Desteği
+
+**Responsive Design** olarak kodlama yapıyorsanız **Media Queries** kullanımından kaynaklı **Internet Explorer 9 ve üzeri** versiyonlarını desteklemek zorunda kalıyoruz.
+
+Eğer `flexbox` özelliğini kullanıyorsak **Internet Explorer 10 ve üzeri** versiyonları desteklemek zorunda kalıyoruz. `flexbox` özelliğini mobil cihazlardaki tasarım kontrolünü kolaylaştırmak için kullandığımızı düşünürsek `flexbox` özelliğini kullandığımızda tarayıcı desteği mobil'e geçtiği için otomatikman tarayıcı desteğinide sağlamış oluyoruz.
+
+Yukarıdaki iki durum dışında diğer tüm masaüstü ve mobil tarayıcılara destek sağlanmaktadır.
 
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
