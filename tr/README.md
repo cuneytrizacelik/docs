@@ -20,9 +20,9 @@ Dinamik yöntemi tercih ederseniz Flexible Grid System'in **Sass**, **LESS** vey
 - [Stylus Kurulumu](#stylus-kurulumu)
 - [Ruby on Rails Kurulumu](#ruby-on-rails-kurulumu)
 
-###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.5.zip)
+###[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/4.0.0.zip)
 
-[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/3.0.5.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
+[Dosyaları indirin](https://github.com/flexiblegs/flexiblegs/archive/4.0.0.zip) ve kullanmak istediğiniz format doğrultusunda stil dosyalarınız arasına ekleyin.
 
 ####Klasör Yapısı
 ```
@@ -181,7 +181,7 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ##Tarayıcı Desteği
 
-**Responsive Design** olarak kodlama yapıyorsanız **Media Queries** kullanımından kaynaklı **Internet Explorer 9 ve üzeri** versiyonlarını desteklemek zorunda kalıyoruz.
+**Responsive Design** olarak kodlama yapıyorsanız **Media Queries** kullanımından kaynaklı **Internet Explorer 9 ve üzeri** versiyonları desteklemek zorunda kalıyoruz.
 
 **Flexbox** özelliğini kullanıyorsak **Internet Explorer 10 ve üzeri** versiyonları desteklemek zorunda kalıyoruz. **Flexbox** özelliğini mobil cihazlardaki tasarım kontrolünü kolaylaştırmak için kullandığımızı düşünürsek **Flexbox** özelliğini kullandığımızda tarayıcı desteği mobil'e geçtiği için otomatikman tarayıcı desteğinide sağlamış oluyoruz.
 
