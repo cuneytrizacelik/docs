@@ -194,7 +194,9 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
   - Öğrenme · [Öğrenme kısmını görüntüleyin.](https://github.com/flexiblegs/docs/tree/master/tr/#Öğrenme)
   - Kütüphane
     - Flexible Colors
-    - Flexible Styles
+    - Flexible Breakpoints · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/breakpoints)
+    - Flexible Tools · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/tools)
+    - Flexible Styles · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/styles)
     - Flexible Fonticons
     - Flexible Navbar
     - Flexible Tabs
