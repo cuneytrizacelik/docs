@@ -191,9 +191,9 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
 
 Projeye dört elle sarılmamı sağlayan bazı linkler :)
 
-- [http://webbox5.webbox.io/2014/07/25/004](http://webbox5.webbox.io/2014/07/25/004)
 - [http://designinstruct.com/web-design/flexible-grid-system](http://designinstruct.com/web-design/flexible-grid-system)
 - [https://rschu.me/the-history-of-a-nifty-css-flexible-grid-system](https://rschu.me/the-history-of-a-nifty-css-flexible-grid-system)
+- [http://webbox5.webbox.io/2014/07/25/004](http://webbox5.webbox.io/2014/07/25/004)
 - [https://github.com/showcases/design-essentials](https://github.com/showcases/design-essentials)
 - [http://coliss.com/articles/build-websites/operation/css/css-flexible-grid-system-flexiblegs.html](http://coliss.com/articles/build-websites/operation/css/css-flexible-grid-system-flexiblegs.html)
 - [http://www.mserdark.com/haftanin-ozeti-4](http://www.mserdark.com/haftanin-ozeti-4)
