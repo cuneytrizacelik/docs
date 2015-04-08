@@ -187,6 +187,18 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek sağlanmaktadır.
 
+##Motivasyon
+
+Sırasıyla projeye dört elle sarılmamı sağlayan linkler :)
+
+- [http://webbox5.webbox.io/2014/07/25/004](http://webbox5.webbox.io/2014/07/25/004)
+- [http://www.ozgurwebgunleri.org.tr/2014/etkinlik-programi-2](http://www.ozgurwebgunleri.org.tr/2014/etkinlik-programi-2)
+- [https://github.com/showcases/design-essentials](https://github.com/showcases/design-essentials)
+- [http://sass-lang.com/community](http://sass-lang.com/community)
+- [http://lesscss.org/usage/#frameworks-using-less-grid-systems](http://lesscss.org/usage/#frameworks-using-less-grid-systems)
+- [https://github.com/stylus/stylus/wiki](https://github.com/stylus/stylus/wiki)
+- [http://sassbreak.com/resources/](http://sassbreak.com/resources)
+
 ##Gelecek
 
 - Flexible Grid System Yeni Websitesi · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/website)
@@ -199,7 +211,7 @@ Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek 
     - Flexible Colors
     - Flexible Fonticons
     - Flexible Navbar
-    - Flexible Tabs
+    - Flexible Tabs · [Kaynak kodunu görüntüleyin.](https://github.com/flexiblegs/tabs)
     - Flexible Slider ve daha fazlası :)
   - Formül · [Tweet linkini görüntüleyin.](https://twitter.com/flexiblegs/status/550265997639573504)
   - Responsive Test
