@@ -181,10 +181,14 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ###CodePen
 
-- CSS · [http://codepen.io/dnomak/pen/KwWJpm](http://codepen.io/dnomak/pen/KwWJpm)
-- Sass · [http://codepen.io/dnomak/pen/wBzdzj](http://codepen.io/dnomak/pen/wBzdzj)
-- LESS · [http://codepen.io/dnomak/pen/yyVXQa](http://codepen.io/dnomak/pen/yyVXQa)
-- Stylus · [http://codepen.io/dnomak/pen/EaZPYw](http://codepen.io/dnomak/pen/EaZPYw)
+- Flexible Grid System **CSS**
+  - [http://codepen.io/dnomak/pen/KwWJpm](http://codepen.io/dnomak/pen/KwWJpm)
+- Flexible Grid System **Sass**
+  - [http://codepen.io/dnomak/pen/wBzdzj](http://codepen.io/dnomak/pen/wBzdzj)
+- Flexible Grid System **LESS**
+  - [http://codepen.io/dnomak/pen/yyVXQa](http://codepen.io/dnomak/pen/yyVXQa)
+- Flexible Grid System **Stylus**
+  - [http://codepen.io/dnomak/pen/EaZPYw](http://codepen.io/dnomak/pen/EaZPYw)
 
 ##Tarayıcı Desteği
 
