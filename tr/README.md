@@ -179,6 +179,13 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ###.align
 
+###CodePen
+
+- [CSS](http://codepen.io/dnomak/pen/KwWJpm)
+- [Sass](http://codepen.io/dnomak/pen/wBzdzj)
+- [LESS](http://codepen.io/dnomak/pen/yyVXQa)
+- [Stylus](http://codepen.io/dnomak/pen/EaZPYw)
+
 ##Tarayıcı Desteği
 
 **Responsive Design** olarak kodlama yapıyorsanız **Media Queries** kullanımından kaynaklı **Internet Explorer 9 ve üzeri** versiyonları desteklemek zorunda kalıyoruz.
@@ -186,13 +193,6 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 **Flexbox** özelliğini kullanıyorsak **Internet Explorer 10 ve üzeri** versiyonları desteklemek zorunda kalıyoruz. **Flexbox** özelliğini mobil cihazlardaki tasarım kontrolünü kolaylaştırmak için kullandığımızı düşünürsek **Flexbox** özelliğini kullandığımızda tarayıcı desteği mobil'e geçtiği için otomatikman tarayıcı desteğinide sağlamış oluyoruz.
 
 Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek sağlanmaktadır.
-
-###CodePen
-
-- Flexible Grid System [CSS](http://codepen.io/dnomak/pen/KwWJpm)
-- Flexible Grid System [Sass](http://codepen.io/dnomak/pen/wBzdzj)
-- Flexible Grid System [LESS](http://codepen.io/dnomak/pen/yyVXQa)
-- Flexible Grid System [Stylus](http://codepen.io/dnomak/pen/EaZPYw)
 
 
 ##Motivasyon
