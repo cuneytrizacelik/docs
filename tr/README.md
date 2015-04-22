@@ -231,6 +231,10 @@ Projeye dört elle sarılmamı sağlayan bazı linkler :)
   - Kahve (Flexible Blend)
   - Havuçlu Kek (Flexible Grid System logolu kek kalıbında) ve daha fazlası :P
 
+##Sunumlar
+- [ODTÜ Halıcı Kuluçka Merkezi 2014](https://speakerdeck.com/dnomak/flexible-project-odtu-2014)
+- [Özgür Web Teknolojileri Günleri 2014](https://speakerdeck.com/dnomak/flexible-grid-system-owtg-2014)
+
 ##Lisans
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
