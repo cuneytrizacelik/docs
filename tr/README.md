@@ -187,6 +187,14 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 Yukarıdaki iki durum dışında tüm masaüstü ve mobil tarayıcılara destek sağlanmaktadır.
 
+###CodePen
+
+- Flexible Grid System [CSS](http://codepen.io/dnomak/pen/KwWJpm)
+- Flexible Grid System [Sass](http://codepen.io/dnomak/pen/wBzdzj)
+- Flexible Grid System [LESS](http://codepen.io/dnomak/pen/yyVXQa)
+- Flexible Grid System [Stylus](http://codepen.io/dnomak/pen/EaZPYw)
+
+
 ##Motivasyon
 
 Projeye dört elle sarılmamı sağlayan bazı linkler :)
@@ -232,10 +240,12 @@ Projeye dört elle sarılmamı sağlayan bazı linkler :)
   - Havuçlu Kek (Flexible Grid System logolu kek kalıbında) ve daha fazlası :P
 
 ##Sunumlar
+
 - [ODTÜ Halıcı Kuluçka Merkezi 2014](https://speakerdeck.com/dnomak/flexible-project-odtu-2014)
 - [Özgür Web Teknolojileri Günleri 2014](https://speakerdeck.com/dnomak/flexible-grid-system-owtg-2014)
 
 ##Lisans
+
 - Flexible Grid System MIT Lisansı altında lisanslanmıştır.
   - [http://opensource.org/licenses/MIT](http://opensource.org/licenses/MIT)
 - Flexible Grid System dökümantasyonu Creative Commons Attribution 4.0 International Lisansı altında lisanslanmıştır.
