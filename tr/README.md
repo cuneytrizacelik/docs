@@ -173,35 +173,6 @@ Flexible Grid System'in responsive olarak kullanılmasını istiyorsanız `<head
 
 ###.flexbox
 
-`.wrap` class veya mixinine ek olarak aşağıdaki css kodlarını eklediğimizde artık flexbox özelliklerini kullanabileceğimiz bir yapıya sahip olmuş oluyoruz. `.wrap`'e eklenen flexbox içerisindeki kolonların davranışları default olarak `center` ve `top` olacak şekilde ayarlanmıştır. İsterseniz `.align` class veya mixinlerini kullanarak değişiklik sağlamanızda mümkündür.
-```css
-.flexbox {
-
-  /* center */
-  -webkit-justify-content: center;
-  justify-content: center;
-
-  /* top */
-  -webkit-align-content: flex-start;
-  align-content: flex-start;
-
-  display: -webkit-box;
-  display: -moz-box;
-  display: -ms-flexbox;
-  display: -webkit-flex;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-
-}
-```
-
 ###.col
 
 ###.gutter
