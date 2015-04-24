@@ -243,6 +243,7 @@ Projeye dört elle sarılmamı sağlayan bazı linkler :)
 - [https://github.com/stylus/stylus/wiki](https://github.com/stylus/stylus/wiki)
 - [http://sassbreak.com/resources](http://sassbreak.com/resources)
 - [http://www.moongift.jp/2015/04/flexible-gs-レスポンシブ対応のグリッドレイアウトフレ](http://www.moongift.jp/2015/04/flexible-gs-レスポンシブ対応のグリッドレイアウトフレ)
+- [http://webrazzi.com/2015/04/24/flexible-grid-system-turkiye-github/](http://webrazzi.com/2015/04/24/flexible-grid-system-turkiye-github/)
 
 ##Gelecek
 
